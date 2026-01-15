@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdated": "2026-01-15",
+    "description": "Estructura de addons en español"
+  },
+  "categories": {
+    "recommended": {
+      "label": "Recomendado",
+      "items": {
+        "migration": {
+          "label": "Migración de cargas de trabajo existentes",
+          "pricing": "Basado en la complejidad de la carga de trabajo",
+          "short_description": "Reciba asistencia profesional para migrar sus cargas de trabajo existentes al stack de KumoOps. Nuestros expertos colaboran con su equipo para evaluar su entorno actual y diseñar un plan de migración personalizado.",
+          "detailed_description": "Reciba asistencia profesional para migrar sus cargas de trabajo existentes al stack de CloudOps as a Service. Nuestros expertos colaboran con su equipo para evaluar su entorno actual y diseñar un plan de migración personalizado. Este servicio garantiza una transición fluida con un tiempo de inactividad mínimo y una interrupción operativa mínima. El precio se determina en función de la complejidad de la carga de trabajo y los requisitos específicos. Para garantizar una transición exitosa, requerimos el apoyo y la colaboración de su equipo de desarrollo interno con nuestro equipo de KumoOps."
+        },
+        "capacity_boost": {
+          "label": "Paquete de aumento de capacidad",
+          "pricing": "€3.000/mes",
+          "short_description": "Aumente su capacidad de soporte en hasta 4 desarrolladores o aplicaciones adicionales. Ideal para clientes que superan el límite del Plan Foundation. Puede reservar este paquete varias veces.",
+          "detailed_description": "Aumente su capacidad de soporte en hasta 4 desarrolladores o aplicaciones adicionales. Este paquete es ideal para clientes que superan el límite del Plan Foundation de 8 desarrolladores o 8 aplicaciones. Puede reservar este paquete varias veces para escalar su soporte según sea necesario."
+        },
+        "upgrade_support": {
+          "label": "Paquete de soporte de actualización",
+          "pricing": "Paquete de 10 horas a €100/hora",
+          "short_description": "Reserva mínima de 10 horas por paquete. Debe programarse con al menos 2 meses de anticipación. Horario estándar lun-vie 09:00-17:00. Horas de fin de semana o fuera de horario se cobran a €250/hora.",
+          "detailed_description": "Reserva mínima de 10 horas por solicitud de paquete (1 hora cuesta €100). Debe programarse con al menos 2 meses de anticipación para garantizar la disponibilidad de recursos y puede reservarse varias veces. KumoOps se reserva el derecho de rechazar reservas según la disponibilidad de recursos o la alineación del alcance. El horario de soporte estándar es de lunes a viernes, 09:00-17:00. El soporte fuera de estas horas debe coordinarse y acordarse con el equipo de KumoOps con anticipación; puede requerirse un acuerdo especial. Las horas de tiempo y materiales en fines de semana, días festivos nacionales o fuera del horario de soporte estándar se cobrarán a €250 por hora."
+        },
+        "managed_databases": {
+          "label": "Bases de datos gestionadas como servicio",
+          "pricing": "€200/mes",
+          "short_description": "Servicios de bases de datos totalmente gestionados que incluyen aprovisionamiento, copias de seguridad automatizadas, escalado y monitoreo continuo. También cubre la creación de esquemas, bases de datos y cuentas de usuario.",
+          "detailed_description": "Servicios de bases de datos totalmente gestionados que incluyen aprovisionamiento, copias de seguridad automatizadas, escalado y monitoreo continuo para garantizar la disponibilidad, seguridad y rendimiento óptimo de sus bases de datos. Además, este servicio cubre la creación de esquemas de bases de datos, bases de datos y cuentas de usuario, proporcionando una solución integral para sus necesidades de bases de datos."
+        },
+        "git_hosting": {
+          "label": "Alojamiento Git como servicio",
+          "pricing": "€100",
+          "short_description": "Alojamiento y administración de Git gestionados como solución SaaS. Nos encargamos de la configuración, mantenimiento, actualizaciones y soporte. Alojado en Alemania.",
+          "detailed_description": "KumoOps Git as a Service proporciona alojamiento y administración de Git gestionados como solución SaaS. Su equipo o empresa recibirá un espacio dedicado dentro del entorno Git, mientras que nuestro equipo se encarga de la configuración, el mantenimiento rutinario, las actualizaciones y el soporte al usuario. El servicio está alojado en OpenTelekomCloud en Alemania, garantizando el cumplimiento de las regulaciones y estándares de privacidad de datos locales."
+        },
+        "argocd_project_mgmt": {
+          "label": "Gestión de proyectos ArgoCD",
+          "pricing": "€200/mes por proyecto",
+          "short_description": "Instancias ArgoCD totalmente gestionadas con separación a nivel de proyecto, incluyendo configuración de UI, políticas RBAC avanzadas y gestión de ServiceAccount.",
+          "detailed_description": "Instancias ArgoCD totalmente gestionadas con separación a nivel de proyecto, incluyendo configuración de UI, políticas RBAC avanzadas y gestión de ServiceAccount para flujos de trabajo GitOps optimizados."
+        },
+        "cloud_cost_optimization": {
+          "label": "Optimización de costos en la nube",
+          "pricing": "€350/mes",
+          "short_description": "Análisis periódico, informes, ajuste de tamaño, planificación de instancias reservadas y alertas de costos automatizadas. Solo se factura si se pueden ahorrar al menos €1.000/mes.",
+          "detailed_description": "Gestión integral de costos en la nube que incluye análisis periódico, informes detallados, recomendaciones de ajuste de tamaño, planificación de instancias reservadas, asesoramiento de auto-scaling y alertas de costos automatizadas para controlar y optimizar eficientemente sus gastos en la nube. Este add-on solo se facturará si se pueden ahorrar al menos €1.000 por mes."
+        },
+        "message_broker": {
+          "label": "Message Broker",
+          "pricing": "€100/mes por configuración",
+          "short_description": "Infraestructura de mensajería totalmente gestionada (Kafka, Service Bus, RabbitMQ, etc.) incluyendo configuración, monitoreo, actualizaciones de seguridad y resolución de problemas.",
+          "detailed_description": "Nuestro servicio de gestión de Message Broker proporciona un entorno totalmente gestionado para su infraestructura de mensajería. Ya sea que elija Kafka, Service Bus, RabbitMQ u otra solución, KumoOps se encargará de la configuración inicial, la configuración y el mantenimiento continuo. Esto incluye registro, monitoreo, actualizaciones de seguridad y soporte de resolución de problemas para garantizar una comunicación eficiente y confiable entre sus servicios distribuidos."
+        },
+        "additional_stage": {
+          "label": "Etapa adicional",
+          "pricing": "€1.500/mes",
+          "short_description": "Añade soporte para una etapa adicional (staging/testing/QA) con los mismos principios IaC y GitOps que dev y prod.",
+          "detailed_description": "Extiende el servicio Foundation Setup and Maintenance para incluir soporte para una etapa adicional, como staging, testing o garantía de calidad. Este paquete proporciona el mismo nivel de implementación de principios de infrastructure as code y GitOps, aprovisionamiento y validación de activos de configuración, y soporte continuo (monitoreo y mantenimiento) para la etapa adicional. Puede reservarse varias veces para soportar múltiples etapas adicionales."
+        }
+      }
+    },
+    "support_operations": {
+      "label": "Soporte y Operaciones",
+      "items": {
+        "flex_tm_support": {
+          "label": "Soporte adicional T&M flexible",
+          "pricing": "€150/hora",
+          "short_description": "Soporte T&M para requisitos personalizados fuera del alcance del stack tecnológico de KumoOps. Horas de fin de semana €250/hora y deben planificarse con anticipación.",
+          "detailed_description": "Soporte para requisitos personalizados fuera del alcance del stack tecnológico de KumoOps (o donde el stack tecnológico se factura por tiempo y materiales). Ideal para necesidades únicas o específicas del proyecto. Las horas de tiempo y materiales de fin de semana se cobran a €250 por hora y deben planificarse con anticipación. KumoOps se reserva el derecho de rechazar solicitudes basándose en la viabilidad o las limitaciones de recursos."
+        },
+        "premium_sla_global": {
+          "label": "SLA Premium: Soporte 24/7 (Global)",
+          "pricing": "+130% sobre la oferta total de CloudOps (incl. add-ons)",
+          "short_description": "Soporte 24/7 con un aumento del 130% sobre la oferta total de CloudOps. Proporcionado por un equipo global distribuido.",
+          "detailed_description": "El costo del soporte 24/7 se calcula como un aumento porcentual sobre la oferta total de CloudOps as a Service (incluyendo add-ons). La opción global es un aumento del 130% y es proporcionada por un equipo distribuido de empleados en todo el mundo."
+        },
+        "premium_sla_eu": {
+          "label": "SLA Premium: Soporte 24/7 (solo UE)",
+          "pricing": "+200% sobre la oferta total de CloudOps (incl. add-ons)",
+          "short_description": "Soporte 24/7 con un aumento del 200% sobre la oferta total de CloudOps. Proporcionado exclusivamente por empleados con sede en la UE.",
+          "detailed_description": "El costo del soporte 24/7 se calcula como un aumento porcentual sobre la oferta total de CloudOps as a Service (incluyendo add-ons). La opción solo UE es un aumento del 200% y es proporcionada exclusivamente por empleados con sede en la UE."
+        }
+      }
+    },
+    "security": {
+      "label": "Seguridad",
+      "items": {
+        "vpn_ipsec": {
+          "label": "Configuración VPN Site-to-Site IPSEC",
+          "pricing": "€300/mes por conexión VPN",
+          "short_description": "Implementación y soporte continuo de una VPN segura para comunicación cifrada entre su entorno en la nube y puntos de acceso externos. Incluye configuración de subredes y gestión de DNS privado.",
+          "detailed_description": "Implementación y soporte continuo de una VPN site-to-site IPSEC segura para garantizar una comunicación cifrada y privada entre su entorno en la nube y puntos de acceso externos. Esta actualización es crítica para el acceso remoto seguro y la protección de datos. Nuestro Add-On de Gestión de Redes proporciona soporte integral para su infraestructura de red, incluyendo configuración de subredes y gestión de DNS privado. El equipo de KumoOps asegura que sus componentes de red estén configurados según las mejores prácticas de seguridad mientras mantiene un alto rendimiento y confiabilidad."
+        },
+        "container_image_hardening": {
+          "label": "Endurecimiento de imágenes de contenedor",
+          "pricing": "€400/mes",
+          "short_description": "Endurecimiento integral de seguridad de imágenes de contenedor con configuraciones de mínimos privilegios y aplicación de políticas.",
+          "detailed_description": "Endurecimiento integral de seguridad de imágenes de contenedor mediante la eliminación de programas innecesarios, optimización de permisos, aplicación de sistemas de archivos raíz de solo lectura, configuraciones de usuarios no privilegiados y aplicación de políticas de seguridad basadas en Kyverno. Ajustes específicos de la aplicación incluidos según sus requisitos."
+        },
+        "proactive_patch_mgmt": {
+          "label": "Gestión proactiva de parches",
+          "pricing": "€4.000/mes",
+          "short_description": "Escaneo Trivy más priorización proactiva de vulnerabilidades y remediación guiada.",
+          "detailed_description": "Escaneo regular de imágenes de contenedor usando Trivy, identificación y priorización proactiva de vulnerabilidades, recomendaciones de remediación y asistencia con la implementación oportuna de parches."
+        },
+        "passive_patch_mgmt": {
+          "label": "Gestión pasiva de parches",
+          "pricing": "€800/mes",
+          "short_description": "Escaneo regular y despliegue pasivo de parches en todos los proyectos para protección básica.",
+          "detailed_description": "Escaneo regular y despliegue pasivo de parches de seguridad en todos los proyectos sin priorización específica, garantizando protección básica contra vulnerabilidades."
+        },
+        "managed_container_registry": {
+          "label": "Registro de contenedores gestionado",
+          "pricing": "€500/mes",
+          "short_description": "Registro de contenedores privado gestionado que incluye soporte de firma y verificación de imágenes.",
+          "detailed_description": "Registro de contenedores privado totalmente gestionado con procesos integrados de firma y verificación de imágenes, mejorando la seguridad e integridad de su pipeline de despliegue de contenedores."
+        },
+        "waf_management": {
+          "label": "Firewall de Aplicaciones Web (WAF)",
+          "pricing": "Precio personalizado (basado en nivel de pánico/complejidad)",
+          "short_description": "Despliegue, configure y mantenga un WAF para proteger contra ataques web comunes (SQLi, XSS, etc.).",
+          "detailed_description": "Despliegue, configure y mantenga un WAF para proteger sus aplicaciones web contra amenazas comunes como inyección SQL, cross-site scripting (XSS) y otros ataques."
+        },
+        "multi_tenancy": {
+          "label": "Configuración Multi-Tenancy",
+          "pricing": "Precio personalizado (depende del nivel de separación de datos/usuarios)",
+          "short_description": "Entornos de inquilinos aislados con controles de acceso personalizados y separación de datos.",
+          "detailed_description": "Este add-on permite la creación de entornos separados y aislados para múltiples organizaciones o entidades dentro de una única instancia, permitiendo controles de acceso personalizados, separación de datos y configuraciones personalizadas para satisfacer las necesidades únicas de cada inquilino."
+        },
+        "psa_compatibility": {
+          "label": "Compatibilidad PSA de Telekom",
+          "pricing": "€200/mes",
+          "short_description": "Soluciones de seguridad compatibles con el framework PSA de Deutsche Telekom.",
+          "detailed_description": "Todas las soluciones de seguridad proporcionadas por KumoOps son totalmente compatibles con el framework Privacy and Security Assessment (PSA) de Deutsche Telekom, garantizando la alineación con sus estrictos estándares de seguridad."
+        },
+        "psa_itil_support": {
+          "label": "Soporte de procesos PSA/ITIL",
+          "pricing": "€200/hora (mínimo 20 horas)",
+          "short_description": "Orientación experta a través de los procesos Telekom PSA/ITIL (mínimo 20 horas).",
+          "detailed_description": "Para proyectos con Deutsche Telekom, KumoOps ofrece orientación experta y soporte durante todo el proceso PSA. Esto garantiza el cumplimiento y un proceso de aprobación fluido, ayudando a su equipo a cumplir con los requisitos de seguridad y privacidad de Telekom. El tamaño mínimo del paquete de add-on es de 20 horas."
+        }
+      }
+    },
+    "artificial_intelligence": {
+      "label": "Inteligencia Artificial",
+      "items": {
+        "managed_azure_openai": {
+          "label": "Azure OpenAI gestionado",
+          "pricing": "€100/mes",
+          "short_description": "Instancia dedicada de Azure OpenAI con mejor privacidad que las herramientas de chat públicas; integración, actualizaciones y mantenimiento gestionados.",
+          "detailed_description": "Obtenga una instancia dedicada de Azure OpenAI alojada en su propio entorno Azure o dentro de la infraestructura de KumoOps. Este add-on proporciona una instancia de IA privada donde los datos de su empresa permanecen aislados y no se utilizan para entrenamiento adicional. KumoOps se encarga de la integración, configuración, actualizaciones y mantenimiento continuo, asegurando que su instancia privada permanezca segura y conforme con los requisitos de privacidad de datos."
+        },
+        "homeport_ai": {
+          "label": "genAI privado Homeport.ai",
+          "pricing": "€59/usuario/mes",
+          "short_description": "Centralice el conocimiento interno en espacios de trabajo seguros; alojado en Open Telekom Cloud (UE) con configuración y operaciones gestionadas por KumoOps.",
+          "detailed_description": "Desbloquee todo el potencial de la IA con Homeport.ai, el sistema operativo de IA para su empresa. Este add-on centraliza su base de conocimiento interno, incluyendo documentos, wikis y contratos, y organiza sus datos en espacios de trabajo personalizados y seguros. También permite la integración de sus modelos de IA preferidos, para que pueda adaptar la solución a sus necesidades únicas. Alojado en Open Telekom Cloud en la UE, esta solución garantiza que sus datos permanezcan almacenados de forma segura en cumplimiento con los estándares de protección de datos locales, mientras KumoOps se encarga de la configuración y la gestión continua."
+        }
+      }
+    },
+    "cloud_specific": {
+      "label": "Específico de la nube",
+      "items": {
+        "rbac_telekom": {
+          "label": "Configuración RBAC",
+          "pricing": "€1.000/mes",
+          "short_description": "Configuración RBAC para acceso kubectl seguro y segmentado dentro de los namespaces de Kubernetes.",
+          "detailed_description": "Configuración y mantenimiento de Control de Acceso Basado en Roles (RBAC) que permite acceso kubectl seguro y segmentado para desarrolladores dentro de namespaces dedicados en su clúster de Kubernetes, mejorando la seguridad y la independencia operativa."
+        },
+        "managed_identities": {
+          "label": "Identidades gestionadas de Azure",
+          "pricing": "€300/mes",
+          "short_description": "Integración de identidad Azure para gestión de acceso seguro y rotación de credenciales (solo aplicaciones empresariales).",
+          "detailed_description": "Mejore y simplifique la gestión de acceso en su entorno Azure con nuestro Add-On de Identidades Gestionadas en Azure. KumoOps se encarga de la configuración e integración de las soluciones de identidad nativas de Azure en su infraestructura, garantizando la rotación segura de credenciales y el control de acceso centralizado. Usted se beneficia del monitoreo continuo y las actualizaciones oportunas, reduciendo el esfuerzo administrativo y protegiendo sus recursos contra el acceso no autorizado. Las Identidades Gestionadas solo se proporcionan para aplicaciones empresariales."
+        },
+        "rbac_azure": {
+          "label": "Configuración RBAC de Azure",
+          "pricing": "€200/mes",
+          "short_description": "RBAC basado en usuarios/grupos de Entra ID para acceso kubectl segmentado en Kubernetes.",
+          "detailed_description": "Configuración y mantenimiento de Control de Acceso Basado en Roles (RBAC) que permite acceso kubectl seguro y segmentado para desarrolladores dentro de namespaces dedicados en su clúster de Kubernetes, mejorando la seguridad y la independencia operativa. RBAC estará basado en grupos y usuarios de Entra ID."
+        }
+      }
+    }
+  }
+}
