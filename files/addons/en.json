@@ -153,7 +153,7 @@
           "label": "Managed Azure OpenAI",
           "pricing": "€100/month",
           "short_description": "Dedicated Azure OpenAI instance with better privacy than public chat tools; managed integration, updates, and maintenance.",
-          "detailed_description": "Get a dedicated instance of Azure OpenAI hosted either in your own Azure environment or within KumOps infrastructure. This add-on provides a private AI instance where your company data remains isolated and is not used for further training. KumoOps takes care of integration, configuration, updates, and ongoing maintenance, ensuring that your private instance remains secure and compliant with data privacy requirements."
+          "detailed_description": "Get a dedicated instance of Azure OpenAI hosted either in your own Azure environment or within KumoOps infrastructure. This add-on provides a private AI instance where your company data remains isolated and is not used for further training. KumoOps takes care of integration, configuration, updates, and ongoing maintenance, ensuring that your private instance remains secure and compliant with data privacy requirements."
         },
         "homeport_ai": {
           "label": "Private genAI Homeport.ai",
