@@ -67,6 +67,12 @@
     "support_operations": {
       "label": "Support & Betrieb",
       "items": {
+        "flex_tm_support_weekend": {
+          "label": "Flexible T&M Additional Support on Weekends",
+          "pricing": "€250/hour",
+          "short_description": "T&M support for custom requirements outside the KumoOps tech stack scope. Weekend hours €250/hour and must be planned upfront.",
+          "detailed_description": "Support for custom requirements outside the KumoOps tech stack scope (or where the tech stack is billed time-and-materials). Ideal for unique or project-specific needs. Weekend time & material hours are charged at 250€ per hour and need to be planned upfront. KumoOps reserves the right to decline requests based on feasibility or resource constraints."
+        },
         "flex_tm_support": {
           "label": "Flexibler T&M Zusatz-Support",
           "pricing": "150 €/Stunde",
