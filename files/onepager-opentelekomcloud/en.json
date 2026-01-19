@@ -63,7 +63,7 @@
     "compliance": {
       "position": 3,
       "title": "Certified out of the box",
-      "description": "Since with KumoOps (operations & service) and OTC (infrastructure) is already certified. Your application setup is almost completely out-of-the box certified*"
+      "description": "With us operations, service and infrastructure is already certified*. We can get you certified in no time"
     },
     "migration": {
       "position": 4,
@@ -94,7 +94,8 @@
     "amount": "€8,000",
     "perMonth": "/month",
     "description": "Includes migration and ongoing CloudSecOps",
-    "cta": "Get Your Free Migration Plan"
+    "cta": "Get Your Free Migration Plan",
+    "link": "https://calendly.com/victor-getz/kumoops-intro"
   },
   "clients": {
     "trustedBy": "Trusted by",
