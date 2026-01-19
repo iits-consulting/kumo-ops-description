@@ -91,7 +91,7 @@
   },
   "pricing": {
     "startingFrom": "Ab",
-    "amount": "€8.000",
+    "amount": "8.000€",
     "perMonth": "/Monat",
     "description": "Enthält Migration und laufende CloudSecOps",
     "cta": "Jetzt kostenlosen Migrationsplan sichern",
