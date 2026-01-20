@@ -22,9 +22,9 @@
         },
         "upgrade_support": {
           "label": "Upgrade Support Package",
-          "pricing": "10 hours package for 100€/hour",
-          "short_description": "Minimum booking of 10 hours per package. Must be scheduled at least 2 months in advance. Standard hours Mon–Fri 09:00–17:00. Weekend or outside hours charged at €250/hour.",
-          "detailed_description": "Minimum booking of 10 hours per package request (1 hour costs 100€). Must be scheduled at least 2 months in advance to ensure resource availability and can be booked multiple times for ongoing support needs. KumoOps reserves the right to decline bookings based on resource availability or scope alignment. Standard support hours are Monday to Friday, 09:00-17:00. If support is required outside of these hours, it must be coordinated and agreed upon with the KumoOps team in advance; a special agreement may be required. Time & material hours on weekends, national holidays, or outside standard support hours will be charged at 250€ per hour."
+          "pricing": "1 hours for 100€",
+          "short_description": "Must be scheduled at least 2 months in advance. Standard hours Mon–Fri 09:00–17:00",
+          "detailed_description": "Must be scheduled at least 2 months in advance to ensure resource availability and can be booked multiple times for ongoing support needs. KumoOps reserves the right to decline bookings based on resource availability or scope alignment. Standard support hours are Monday to Friday, 09:00-17:00. If support is required outside of these hours, it must be coordinated and agreed upon with the KumoOps team in advance; a special agreement may be required."
         },
         "managed_databases": {
           "label": "Managed Databases as a Service",

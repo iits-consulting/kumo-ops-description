@@ -22,9 +22,9 @@
         },
         "upgrade_support": {
           "label": "Upgrade-Support-Paket",
-          "pricing": "10-Stunden-Paket für 100 €/Stunde",
-          "short_description": "Mindestbuchung von 10 Stunden pro Paket. Muss mindestens 2 Monate im Voraus geplant werden. Standardzeiten Mo–Fr 09:00–17:00. Wochenend- oder Außerhalb-Zeiten werden mit 250 €/Stunde berechnet.",
-          "detailed_description": "Mindestbuchung von 10 Stunden pro Paketanfrage (1 Stunde kostet 100 €). Muss mindestens 2 Monate im Voraus geplant werden, um die Ressourcenverfügbarkeit zu gewährleisten, und kann mehrfach gebucht werden. KumoOps behält sich das Recht vor, Buchungen basierend auf Ressourcenverfügbarkeit oder Umfangsabstimmung abzulehnen. Standard-Support-Zeiten sind Montag bis Freitag, 09:00-17:00 Uhr. Support außerhalb dieser Zeiten muss im Voraus koordiniert werden; eine Sondervereinbarung kann erforderlich sein. Time & Material Stunden an Wochenenden, Feiertagen oder außerhalb der Standard-Support-Zeiten werden mit 250 € pro Stunde berechnet."
+          "pricing": "1 Stunde für 100€",
+          "short_description": "Muss mindestens 2 Monate im Voraus geplant werden. Standardzeiten Mo–Fr 09:00–17:00.",
+          "detailed_description": "Muss mindestens 2 Monate im Voraus geplant werden, um die Ressourcenverfügbarkeit zu gewährleisten, und kann mehrfach gebucht werden. KumoOps behält sich das Recht vor, Buchungen basierend auf Ressourcenverfügbarkeit oder Umfangsabstimmung abzulehnen. Standard-Support-Zeiten sind Montag bis Freitag, 09:00-17:00 Uhr. Support außerhalb dieser Zeiten muss im Voraus koordiniert werden; eine Sondervereinbarung kann erforderlich sein."
         },
         "managed_databases": {
           "label": "Managed Databases as a Service",
