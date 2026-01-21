@@ -103,16 +103,16 @@
           "detailed_description": "Implementierung und laufende Unterstützung eines sicheren Site-to-Site IPSEC VPN, um verschlüsselte und private Kommunikation zwischen Ihrer Cloud-Umgebung und externen Zugangspunkten zu gewährleisten. Dieses Upgrade ist kritisch für sicheren Remote-Zugang und Datenschutz. Unser Networking Management Add-On liefert umfassende Unterstützung für Ihre Netzwerkinfrastruktur, einschließlich Subnetzkonfiguration und privatem DNS-Management. Das KumoOps-Team stellt sicher, dass Ihre Netzwerkkomponenten gemäß Sicherheits-Best-Practices konfiguriert sind, während hohe Leistung und Zuverlässigkeit aufrechterhalten werden."
         },
         "container_image_hardening": {
-          "label": "Container Image Hardening",
+          "label": "Workload security enforcement",
           "pricing": "400 €/Monat",
-          "short_description": "Umfassende Container-Image-Sicherheitshärtung mit Least-Privilege-Standards und Policy-Durchsetzung.",
-          "detailed_description": "Umfassende Container-Image-Sicherheitshärtung durch Entfernung unnötiger Programme, Optimierung von Berechtigungen, Durchsetzung von Read-Only-Root-Dateisystemen, nicht-privilegierten Benutzerkonfigurationen und Anwendung von Kyverno-basierten Sicherheitsrichtlinien. Anwendungsspezifische Anpassungen basierend auf Ihren Anforderungen sind inbegriffen."
+          "short_description": "Umfassende Container-Sicherheitshärtung mit Least-Privilege-Standards und Policy-Durchsetzung.",
+          "detailed_description": "Umfassende Container-Sicherheitshärtung durch Entfernung unnötiger Programme, Optimierung von Berechtigungen, Durchsetzung von Read-Only-Root-Dateisystemen, nicht-privilegierten Benutzerkonfigurationen und Anwendung von Kyverno-basierten Sicherheitsrichtlinien. Anwendungsspezifische Anpassungen basierend auf Ihren Anforderungen sind inbegriffen."
         },
         "proactive_patch_mgmt": {
           "label": "Proaktives Patch-Management",
           "pricing": "4.000 €/Monat",
           "short_description": "Trivy-Scanning plus proaktive Schwachstellenpriorisierung und geführte Behebung.",
-          "detailed_description": "Regelmäßiges Scannen von Container-Images mit Trivy, proaktive Identifizierung und Priorisierung von Schwachstellen, Behebungsempfehlungen und Unterstützung bei der zeitnahen Patch-Implementierung."
+          "detailed_description": "Regelmäßiges Scannen von Container mit Trivy, proaktive Identifizierung und Priorisierung von Schwachstellen, Behebungsempfehlungen und Unterstützung bei der zeitnahen Patch-Implementierung."
         },
         "passive_patch_mgmt": {
           "label": "Passives Patch-Management",

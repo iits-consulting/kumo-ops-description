@@ -103,16 +103,16 @@
           "detailed_description": "Implementatie en doorlopende ondersteuning van een beveiligde site-to-site IPSEC VPN om versleutelde en privé communicatie tussen uw cloudomgeving en externe toegangspunten te garanderen. Deze upgrade is cruciaal voor beveiligde externe toegang en gegevensbescherming. Onze Networking Management Add-On levert uitgebreide ondersteuning voor uw netwerkinfrastructuur, inclusief subnetwerkconfiguratie en privé DNS-beheer. Het KumoOps-team zorgt ervoor dat uw netwerkcomponenten zijn geconfigureerd volgens beveiligingsbest practices terwijl hoge prestaties en betrouwbaarheid worden gehandhaafd."
         },
         "container_image_hardening": {
-          "label": "Container Image Hardening",
+          "label": "Workload security enforcement",
           "pricing": "€400/maand",
-          "short_description": "Uitgebreide container image-beveiligingshardening met least-privilege standaarden en policy-handhaving.",
-          "detailed_description": "Uitgebreide container image-beveiligingshardening door het verwijderen van onnodige programma's, het optimaliseren van machtigingen, het afdwingen van read-only root-bestandssystemen, niet-geprivilegieerde gebruikersconfiguraties en het toepassen van Kyverno-gebaseerde beveiligingspolicies. Applicatiespecifieke aanpassingen inbegrepen op basis van uw vereisten."
+          "short_description": "Uitgebreide container-beveiligingshardening met least-privilege standaarden en policy-handhaving.",
+          "detailed_description": "Uitgebreide container-beveiligingshardening door het verwijderen van onnodige programma's, het optimaliseren van machtigingen, het afdwingen van read-only root-bestandssystemen, niet-geprivilegieerde gebruikersconfiguraties en het toepassen van Kyverno-gebaseerde beveiligingspolicies. Applicatiespecifieke aanpassingen inbegrepen op basis van uw vereisten."
         },
         "proactive_patch_mgmt": {
           "label": "Proactief Patch Management",
           "pricing": "€4.000/maand",
           "short_description": "Trivy-scanning plus proactieve kwetsbaarhedenprioritering en begeleide remediatie.",
-          "detailed_description": "Regelmatige scanning van container images met Trivy, proactieve identificatie en prioritering van kwetsbaarheden, remediatie-aanbevelingen en assistentie bij tijdige patch-implementatie."
+          "detailed_description": "Regelmatige scanning van container met Trivy, proactieve identificatie en prioritering van kwetsbaarheden, remediatie-aanbevelingen en assistentie bij tijdige patch-implementatie."
         },
         "passive_patch_mgmt": {
           "label": "Passief Patch Management",

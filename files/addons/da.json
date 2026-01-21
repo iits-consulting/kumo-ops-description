@@ -103,16 +103,16 @@
           "detailed_description": "Implementering og løbende support af en sikker site-to-site IPSEC VPN for at sikre krypteret og privat kommunikation mellem dit cloud-miljø og eksterne adgangspunkter. Denne opgradering er kritisk for sikker fjernadgang og databeskyttelse. Vores Networking Management Add-On leverer omfattende support til din netværksinfrastruktur, inkl. subnetværkskonfiguration og privat DNS-administration. KumoOps-teamet sikrer, at dine netværkskomponenter er konfigureret i henhold til sikkerhedsbestpraksis, mens høj ydeevne og pålidelighed opretholdes."
         },
         "container_image_hardening": {
-          "label": "Container Image Hardening",
+          "label": "Workload security enforcement",
           "pricing": "€400/måned",
-          "short_description": "Omfattende container image-sikkerhedshærdning med least-privilege standarder og policy-håndhævelse.",
-          "detailed_description": "Omfattende container image-sikkerhedshærdning ved at fjerne unødvendige programmer, optimere tilladelser, håndhæve read-only root-filsystemer, ikke-privilegerede brugerkonfigurationer og anvende Kyverno-baserede sikkerhedspolitikker. Applikationsspecifikke justeringer inkluderet baseret på dine krav."
+          "short_description": "Omfattende container-sikkerhedshærdning med least-privilege standarder og policy-håndhævelse.",
+          "detailed_description": "Omfattende container-sikkerhedshærdning ved at fjerne unødvendige programmer, optimere tilladelser, håndhæve read-only root-filsystemer, ikke-privilegerede brugerkonfigurationer og anvende Kyverno-baserede sikkerhedspolitikker. Applikationsspecifikke justeringer inkluderet baseret på dine krav."
         },
         "proactive_patch_mgmt": {
           "label": "Proaktiv Patch Management",
           "pricing": "€4.000/måned",
           "short_description": "Trivy-scanning plus proaktiv sårbarhedsprioritering og guidet afhjælpning.",
-          "detailed_description": "Regelmæssig scanning af container images ved hjælp af Trivy, proaktiv identifikation og prioritering af sårbarheder, afhjælpningsanbefalinger og assistance med rettidig patch-implementering."
+          "detailed_description": "Regelmæssig scanning af containers ved hjælp af Trivy, proaktiv identifikation og prioritering af sårbarheder, afhjælpningsanbefalinger og assistance med rettidig patch-implementering."
         },
         "passive_patch_mgmt": {
           "label": "Passiv Patch Management",
