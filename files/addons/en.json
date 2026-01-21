@@ -81,15 +81,15 @@
         },
         "premium_sla_global": {
           "label": "Premium SLA: 24/7 Support (Global)",
-          "pricing": "+130% over total CloudOps offer (incl. add-ons)",
-          "short_description": "24/7 support with a 130% increase over the total CloudOps offer. Provided by a distributed global team.",
-          "detailed_description": "The cost for 24/7 support is calculated as a percentage increase over the total CloudOps as a Service offer (including add-ons). The global option is a 130% increase and is provided by a distributed team of employees worldwide."
+          "pricing": "+30% over total CloudOps offer (incl. add-ons)",
+          "short_description": "24/7 support with a 30% increase over the total CloudOps offer. Provided by a distributed global team.",
+          "detailed_description": "The cost for 24/7 support is calculated as a percentage increase over the total CloudOps as a Service offer (including add-ons). The global option is a 30% increase and is provided by a distributed team of employees worldwide."
         },
         "premium_sla_eu": {
           "label": "Premium SLA: 24/7 Support (EU only)",
-          "pricing": "+200% over total CloudOps offer (incl. add-ons)",
-          "short_description": "24/7 support with a 200% increase over the total CloudOps offer. Provided exclusively by EU-based employees.",
-          "detailed_description": "The cost for 24/7 support is calculated as a percentage increase over the total CloudOps as a Service offer (including add-ons). The EU-only option is a 200% increase and is provided exclusively by employees based in the EU."
+          "pricing": "+100% over total CloudOps offer (incl. add-ons)",
+          "short_description": "24/7 support with a 100% increase over the total CloudOps offer. Provided exclusively by EU-based employees.",
+          "detailed_description": "The cost for 24/7 support is calculated as a percentage increase over the total CloudOps as a Service offer (including add-ons). The EU-only option is a 100% increase and is provided exclusively by employees based in the EU."
         }
       }
     },

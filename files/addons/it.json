@@ -81,15 +81,15 @@
         },
         "premium_sla_global": {
           "label": "SLA Premium: Supporto 24/7 (Globale)",
-          "pricing": "+130% sull'offerta CloudOps totale (add-on inclusi)",
-          "short_description": "Supporto 24/7 con un aumento del 130% sull'offerta CloudOps totale. Fornito da un team globale distribuito.",
-          "detailed_description": "Il costo del supporto 24/7 è calcolato come aumento percentuale sull'offerta totale CloudOps as a Service (add-on inclusi). L'opzione globale è un aumento del 130% ed è fornita da un team distribuito di dipendenti in tutto il mondo."
+          "pricing": "+30% sull'offerta CloudOps totale (add-on inclusi)",
+          "short_description": "Supporto 24/7 con un aumento del 30% sull'offerta CloudOps totale. Fornito da un team globale distribuito.",
+          "detailed_description": "Il costo del supporto 24/7 è calcolato come aumento percentuale sull'offerta totale CloudOps as a Service (add-on inclusi). L'opzione globale è un aumento del 30% ed è fornita da un team distribuito di dipendenti in tutto il mondo."
         },
         "premium_sla_eu": {
           "label": "SLA Premium: Supporto 24/7 (solo UE)",
-          "pricing": "+200% sull'offerta CloudOps totale (add-on inclusi)",
-          "short_description": "Supporto 24/7 con un aumento del 200% sull'offerta CloudOps totale. Fornito esclusivamente da dipendenti con sede nell'UE.",
-          "detailed_description": "Il costo del supporto 24/7 è calcolato come aumento percentuale sull'offerta totale CloudOps as a Service (add-on inclusi). L'opzione solo UE è un aumento del 200% ed è fornita esclusivamente da dipendenti con sede nell'UE."
+          "pricing": "+100% sull'offerta CloudOps totale (add-on inclusi)",
+          "short_description": "Supporto 24/7 con un aumento del 100% sull'offerta CloudOps totale. Fornito esclusivamente da dipendenti con sede nell'UE.",
+          "detailed_description": "Il costo del supporto 24/7 è calcolato come aumento percentuale sull'offerta totale CloudOps as a Service (add-on inclusi). L'opzione solo UE è un aumento del 100% ed è fornita esclusivamente da dipendenti con sede nell'UE."
         }
       }
     },

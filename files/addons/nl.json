@@ -81,15 +81,15 @@
         },
         "premium_sla_global": {
           "label": "Premium SLA: 24/7 Support (Globaal)",
-          "pricing": "+130% boven het totale CloudOps-aanbod (incl. add-ons)",
-          "short_description": "24/7 support met een verhoging van 130% boven het totale CloudOps-aanbod. Geleverd door een gedistribueerd wereldwijd team.",
-          "detailed_description": "De kosten voor 24/7 support worden berekend als een procentuele verhoging boven het totale CloudOps as a Service-aanbod (inclusief add-ons). De globale optie is een verhoging van 130% en wordt geleverd door een gedistribueerd team van medewerkers wereldwijd."
+          "pricing": "+30% boven het totale CloudOps-aanbod (incl. add-ons)",
+          "short_description": "24/7 support met een verhoging van 30% boven het totale CloudOps-aanbod. Geleverd door een gedistribueerd wereldwijd team.",
+          "detailed_description": "De kosten voor 24/7 support worden berekend als een procentuele verhoging boven het totale CloudOps as a Service-aanbod (inclusief add-ons). De globale optie is een verhoging van 30% en wordt geleverd door een gedistribueerd team van medewerkers wereldwijd."
         },
         "premium_sla_eu": {
           "label": "Premium SLA: 24/7 Support (alleen EU)",
-          "pricing": "+200% boven het totale CloudOps-aanbod (incl. add-ons)",
-          "short_description": "24/7 support met een verhoging van 200% boven het totale CloudOps-aanbod. Uitsluitend geleverd door medewerkers in de EU.",
-          "detailed_description": "De kosten voor 24/7 support worden berekend als een procentuele verhoging boven het totale CloudOps as a Service-aanbod (inclusief add-ons). De EU-only optie is een verhoging van 200% en wordt uitsluitend geleverd door medewerkers gevestigd in de EU."
+          "pricing": "+100% boven het totale CloudOps-aanbod (incl. add-ons)",
+          "short_description": "24/7 support met een verhoging van 100% boven het totale CloudOps-aanbod. Uitsluitend geleverd door medewerkers in de EU.",
+          "detailed_description": "De kosten voor 24/7 support worden berekend als een procentuele verhoging boven het totale CloudOps as a Service-aanbod (inclusief add-ons). De EU-only optie is een verhoging van 100% en wordt uitsluitend geleverd door medewerkers gevestigd in de EU."
         }
       }
     },

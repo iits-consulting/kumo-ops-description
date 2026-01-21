@@ -81,15 +81,15 @@
         },
         "premium_sla_global": {
           "label": "Premium SLA: 24/7 Support (Global)",
-          "pricing": "+130% over det samlede CloudOps-tilbud (inkl. add-ons)",
-          "short_description": "24/7 support med 130% stigning over det samlede CloudOps-tilbud. Leveret af et distribueret globalt team.",
-          "detailed_description": "Omkostningerne til 24/7 support beregnes som en procentvis stigning over det samlede CloudOps as a Service-tilbud (inkl. add-ons). Den globale option er en 130% stigning og leveres af et distribueret team af medarbejdere verden over."
+          "pricing": "+30% over det samlede CloudOps-tilbud (inkl. add-ons)",
+          "short_description": "24/7 support med 30% stigning over det samlede CloudOps-tilbud. Leveret af et distribueret globalt team.",
+          "detailed_description": "Omkostningerne til 24/7 support beregnes som en procentvis stigning over det samlede CloudOps as a Service-tilbud (inkl. add-ons). Den globale option er en 30% stigning og leveres af et distribueret team af medarbejdere verden over."
         },
         "premium_sla_eu": {
           "label": "Premium SLA: 24/7 Support (kun EU)",
-          "pricing": "+200% over det samlede CloudOps-tilbud (inkl. add-ons)",
-          "short_description": "24/7 support med 200% stigning over det samlede CloudOps-tilbud. Leveres udelukkende af EU-baserede medarbejdere.",
-          "detailed_description": "Omkostningerne til 24/7 support beregnes som en procentvis stigning over det samlede CloudOps as a Service-tilbud (inkl. add-ons). EU-only optionen er en 200% stigning og leveres udelukkende af medarbejdere baseret i EU."
+          "pricing": "+100% over det samlede CloudOps-tilbud (inkl. add-ons)",
+          "short_description": "24/7 support med 100% stigning over det samlede CloudOps-tilbud. Leveres udelukkende af EU-baserede medarbejdere.",
+          "detailed_description": "Omkostningerne til 24/7 support beregnes som en procentvis stigning over det samlede CloudOps as a Service-tilbud (inkl. add-ons). EU-only optionen er en 100% stigning og leveres udelukkende af medarbejdere baseret i EU."
         }
       }
     },

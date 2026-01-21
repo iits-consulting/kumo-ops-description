@@ -81,15 +81,15 @@
         },
         "premium_sla_global": {
           "label": "SLA Premium: Soporte 24/7 (Global)",
-          "pricing": "+130% sobre la oferta total de CloudOps (incl. add-ons)",
-          "short_description": "Soporte 24/7 con un aumento del 130% sobre la oferta total de CloudOps. Proporcionado por un equipo global distribuido.",
-          "detailed_description": "El costo del soporte 24/7 se calcula como un aumento porcentual sobre la oferta total de CloudOps as a Service (incluyendo add-ons). La opción global es un aumento del 130% y es proporcionada por un equipo distribuido de empleados en todo el mundo."
+          "pricing": "+30% sobre la oferta total de CloudOps (incl. add-ons)",
+          "short_description": "Soporte 24/7 con un aumento del 30% sobre la oferta total de CloudOps. Proporcionado por un equipo global distribuido.",
+          "detailed_description": "El costo del soporte 24/7 se calcula como un aumento porcentual sobre la oferta total de CloudOps as a Service (incluyendo add-ons). La opción global es un aumento del 30% y es proporcionada por un equipo distribuido de empleados en todo el mundo."
         },
         "premium_sla_eu": {
           "label": "SLA Premium: Soporte 24/7 (solo UE)",
-          "pricing": "+200% sobre la oferta total de CloudOps (incl. add-ons)",
-          "short_description": "Soporte 24/7 con un aumento del 200% sobre la oferta total de CloudOps. Proporcionado exclusivamente por empleados con sede en la UE.",
-          "detailed_description": "El costo del soporte 24/7 se calcula como un aumento porcentual sobre la oferta total de CloudOps as a Service (incluyendo add-ons). La opción solo UE es un aumento del 200% y es proporcionada exclusivamente por empleados con sede en la UE."
+          "pricing": "+100% sobre la oferta total de CloudOps (incl. add-ons)",
+          "short_description": "Soporte 24/7 con un aumento del 100% sobre la oferta total de CloudOps. Proporcionado exclusivamente por empleados con sede en la UE.",
+          "detailed_description": "El costo del soporte 24/7 se calcula como un aumento porcentual sobre la oferta total de CloudOps as a Service (incluyendo add-ons). La opción solo UE es un aumento del 100% y es proporcionada exclusivamente por empleados con sede en la UE."
         }
       }
     },
