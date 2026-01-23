@@ -121,10 +121,10 @@
           "detailed_description": "Regular scanning and passive deployment of security patches across all projects without specific prioritization, ensuring baseline protection from vulnerabilities. If ISO27001 or C5 is required this addon should be included."
         },
         "managed_container_registry": {
-          "label": "Managed Container Registry",
+          "label": "Secure and Signed Managed Container Registry",
           "pricing": "€500/month",
           "short_description": "Managed private container registry including image signing and verification support.",
-          "detailed_description": "Fully managed private container registry with integrated image signing and verification processes, enhancing the security and integrity of your container deployment pipeline. If ISO27001 or C5 is required this addon should be included."
+          "detailed_description": "The managed service provider provides and operates a highly available, private container registry as a managed service (lifecycle management, updates, monitoring, backups). The registry is part of the operational scope relevant for BSI C5 / ISO 27001. Access is exclusively authenticated (SSO/RBAC), encrypted in transit (TLS), and the data is encrypted at rest. Registry activities (push/pull/delete) must be logged in an audit-proof manner and reported monthly. In addition, vulnerability scanning of images including reporting is mandatory; image signing/policy enforcement is included."
         },
         "waf_management": {
           "label": "Web Application Firewall (WAF)",
