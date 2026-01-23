@@ -12,31 +12,31 @@
           "label": "Migration of Existing Workload",
           "pricing": "Based on workload complexity",
           "short_description": "Receive professional assistance for migrating your existing workloads into the KumoOps stack. Our experts collaborate with your team to assess your current environment and design a tailored migration plan, ensuring a smooth transition with minimal downtime.",
-          "detailed_description": "Receive professional assistance for migrating your existing workloads into the CloudOps as a Service stack. Our experts collaborate with your team to assess your current environment and design a tailored migration plan. This service ensures a smooth transition with minimal downtime and operational disruption. Pricing is determined based on workload complexity and specific requirements. To ensure a successful transition, we require the support and collaboration of your internal development team with our KumoOps team."
+          "detailed_description": "Receive professional assistance for migrating your existing workloads into the CloudSecOps as a Service stack. Our experts collaborate with your team to assess your current environment and design a tailored migration plan. This service ensures a smooth transition with minimal downtime and operational disruption. Pricing is determined based on workload complexity and specific requirements. To ensure a successful transition, we require the support and collaboration of your internal development team with our KumoOps team."
         },
         "capacity_boost": {
           "label": "Capacity Boost Package",
           "pricing": "€3,000/month",
           "short_description": "Increase your support capacity by up to 4 additional developers or applications. Ideal for clients who outgrow the Foundation Plan's limit. You can book this package multiple times to scale as needed.",
-          "detailed_description": "Increase your support capacity by up to 4 additional developers or applications. This package is ideal for clients who outgrow the Foundation Plan's limit of 8 developers or 8 applications. You can book this package multiple times to scale your support as needed."
+          "detailed_description": "Increase your support capacity by up to 4 additional developers or apps (or deployments/applications/services etc.). This package is ideal for clients who outgrow the Foundation Plan's limit of 8 developers or 8 applications. You can book this package multiple times to scale your support as needed. If you have a microservice architecture the number of apps will not be 4 but 8."
         },
         "upgrade_support": {
           "label": "Upgrade Support Package",
-          "pricing": "1 hours for 100€",
+          "pricing": "1 hour for 100€",
           "short_description": "Must be scheduled at least 2 months in advance. Standard hours Mon–Fri 09:00–17:00",
           "detailed_description": "Must be scheduled at least 2 months in advance to ensure resource availability and can be booked multiple times for ongoing support needs. KumoOps reserves the right to decline bookings based on resource availability or scope alignment. Standard support hours are Monday to Friday, 09:00-17:00. If support is required outside of these hours, it must be coordinated and agreed upon with the KumoOps team in advance; a special agreement may be required."
         },
         "managed_databases": {
-          "label": "Managed Databases as a Service",
+          "label": "Additional Managed Databases as a Service",
           "pricing": "€200/month",
           "short_description": "Fully managed database services including provisioning, automated backups, scaling, and continuous monitoring. Also covers schema creation, databases, and user accounts.",
-          "detailed_description": "Fully managed database services including provisioning, automated backups, scaling, and continuous monitoring to ensure availability, security, and optimal performance of your databases. Additionally, this service covers the creation of database schemas, databases, and user accounts, providing a comprehensive solution for your database needs."
+          "detailed_description": "Fully managed database services including provisioning, automated backups, scaling, and continuous monitoring to ensure availability, security, and optimal performance of your databases. Additionally, this service covers the creation of database schemas, databases, and user accounts, providing a comprehensive solution for your database needs. For each additional stage addon another database addon needs to be booked."
         },
         "git_hosting": {
           "label": "Git Hosting as a Service",
-          "pricing": "€100",
+          "pricing": "€300",
           "short_description": "Managed Git hosting and administration as a SaaS solution. We handle configuration, maintenance, updates, and support. Hosted in Germany.",
-          "detailed_description": "KumoOps Git as a Service provides managed Git hosting and administration as a SaaS solution. Your team or company will receive a dedicated space within the Git environment, while our team handles configuration, routine maintenance, updates, and user support. The service is hosted in the OpenTelekomCloud in Germany, ensuring compliance with local data privacy regulations and standards."
+          "detailed_description": "KumoOps Git as a Service provides managed Git hosting and administration as a SaaS solution. Your team or company will receive a dedicated space within the Git environment, while our team handles configuration, routine maintenance, updates, and user support. The service is hosted in the OpenTelekomCloud in Germany, ensuring compliance with local data privacy regulations and standards. If the customer is not providing a Git service this package should be included"
         },
         "argocd_project_mgmt": {
           "label": "ArgoCD Project Management",
@@ -48,7 +48,7 @@
           "label": "Cloud Cost Optimization",
           "pricing": "€350/month",
           "short_description": "Periodic analysis, reporting, right-sizing, reserved instance planning, and automated cost alerting. Only billed if at least €1,000/month can be saved.",
-          "detailed_description": "Comprehensive cloud cost management including periodic analysis, detailed reporting, right-sizing recommendations, reserved instance planning, auto-scaling advice, and automated cost alerting to efficiently control and optimize your cloud expenditure. This add-on will only be billed if at least 1000€ per month can be saved."
+          "detailed_description": "Comprehensive cloud cost management including periodic analysis, detailed reporting, right-sizing recommendations, reserved instance planning, auto-scaling advice, and automated cost alerting to efficiently control and optimize your cloud expenditure. This add-on will only be billed if at least 1000€ per month can be saved. If it is not a simple setup (multi tenancy, C5 compliant etc.) or at least 3 stages are present we would recommend booking this package."
         },
         "message_broker": {
           "label": "Message Broker",
@@ -60,7 +60,7 @@
           "label": "Additional Stage",
           "pricing": "€1,500/month",
           "short_description": "Adds support for an additional stage (staging/testing/QA) with the same IaC and GitOps principles as dev and prod.",
-          "detailed_description": "Extends the Foundation Setup and Maintenance service to include support for an additional stage, such as staging, testing, or quality assurance. This package provides the same level of infrastructure as code and GitOps principles implementation, provisioning and configuration asset validation, and ongoing support (monitoring and maintenance) for the additional stage. It can be booked multiple times to support multiple additional stages."
+          "detailed_description": "Extends the Foundation Setup and Maintenance service to include support for an additional stage, such as staging, testing, or quality assurance. This package provides the same level of infrastructure as code and GitOps principles implementation, provisioning and configuration asset validation, and ongoing support (monitoring and maintenance) for the additional stage. It can be booked multiple times to support multiple additional stages. If you need services like a central Secret Management Tool like HashiCorp Vault or IAM (for example Keycloak) you need to book this addon as additional infra stage."
         }
       }
     },
@@ -81,15 +81,15 @@
         },
         "premium_sla_global": {
           "label": "Premium SLA: 24/7 Support (Global)",
-          "pricing": "+30% over total CloudOps offer (incl. add-ons)",
-          "short_description": "24/7 support with a 30% increase over the total CloudOps offer. Provided by a distributed global team.",
-          "detailed_description": "The cost for 24/7 support is calculated as a percentage increase over the total CloudOps as a Service offer (including add-ons). The global option is a 30% increase and is provided by a distributed team of employees worldwide."
+          "pricing": "+30% over total CloudSecOps offer (incl. add-ons)",
+          "short_description": "24/7 support with a 30% increase over the total CloudSecOps offer. Provided by a distributed global team.",
+          "detailed_description": "The cost for 24/7 support is calculated as a percentage increase over the total CloudSecOps as a Service offer (including add-ons). The global option is a 30% increase and is provided by a distributed team of employees worldwide."
         },
         "premium_sla_eu": {
           "label": "Premium SLA: 24/7 Support (EU only)",
-          "pricing": "+100% over total CloudOps offer (incl. add-ons)",
-          "short_description": "24/7 support with a 100% increase over the total CloudOps offer. Provided exclusively by EU-based employees.",
-          "detailed_description": "The cost for 24/7 support is calculated as a percentage increase over the total CloudOps as a Service offer (including add-ons). The EU-only option is a 100% increase and is provided exclusively by employees based in the EU."
+          "pricing": "+100% over total CloudSecOps offer (incl. add-ons)",
+          "short_description": "24/7 support with a 100% increase over the total CloudSecOps offer. Provided exclusively by EU-based employees.",
+          "detailed_description": "The cost for 24/7 support is calculated as a percentage increase over the total CloudSecOps as a Service offer (including add-ons). The EU-only option is a 100% increase and is provided exclusively by employees based in the EU."
         }
       }
     },
@@ -106,7 +106,7 @@
           "label": "Workload security enforcement",
           "pricing": "€400/month",
           "short_description": "Comprehensive container security hardening with least-privilege defaults and policy enforcement.",
-          "detailed_description": "Comprehensive container security hardening by removing unnecessary programs, optimizing permissions, enforcing read-only root filesystems, non-privileged user configurations, and applying Kyverno-based security policies. Application-specific adjustments included based on your requirements."
+          "detailed_description": "Comprehensive container security hardening by removing unnecessary programs, optimizing permissions, enforcing read-only root filesystems, non-privileged user configurations, and applying Kyverno-based security policies. Application-specific adjustments included based on your requirements. If ISO27001 or C5 is required this addon should be included."
         },
         "proactive_patch_mgmt": {
           "label": "Proactive Patch Management",
@@ -118,13 +118,13 @@
           "label": "Passive Patch Management",
           "pricing": "€800/month",
           "short_description": "Regular scanning and passive rollout of patches across projects for baseline protection.",
-          "detailed_description": "Regular scanning and passive deployment of security patches across all projects without specific prioritization, ensuring baseline protection from vulnerabilities."
+          "detailed_description": "Regular scanning and passive deployment of security patches across all projects without specific prioritization, ensuring baseline protection from vulnerabilities. If ISO27001 or C5 is required this addon should be included."
         },
         "managed_container_registry": {
           "label": "Managed Container Registry",
           "pricing": "€500/month",
           "short_description": "Managed private container registry including image signing and verification support.",
-          "detailed_description": "Fully managed private container registry with integrated image signing and verification processes, enhancing the security and integrity of your container deployment pipeline."
+          "detailed_description": "Fully managed private container registry with integrated image signing and verification processes, enhancing the security and integrity of your container deployment pipeline. If ISO27001 or C5 is required this addon should be included."
         },
         "waf_management": {
           "label": "Web Application Firewall (WAF)",
@@ -145,10 +145,16 @@
           "detailed_description": "All security solutions provided by KumoOps are fully compatible with Deutsche Telekom's Privacy and Security Assessment (PSA) framework, ensuring alignment with their stringent security standards."
         },
         "psa_itil_support": {
-          "label": "PSA/ITIL Process Support",
+          "label": "PSA/ITIL/C5 Process Support",
           "pricing": "€200/hour (minimum 20 hours)",
-          "short_description": "Expert guidance through Telekom PSA/ITIL processes (minimum 20 hours).",
-          "detailed_description": "For projects with Deutsche Telekom, KumoOps offers expert guidance and support throughout the PSA process. This ensures compliance and a smooth approval process, helping your team meet Telekom's security and privacy requirements. Minimum add-on package size is 20 hours."
+          "short_description": "Expert guidance through Telekom PSA/ITIL/C5 processes (minimum 20 hours).",
+          "detailed_description": "For high security projects, KumoOps offers expert guidance and support throughout the PSA/C5/ITIL process. This ensures compliance and a smooth approval process, helping your team meet proper security and privacy requirements. Minimum add-on package size is 20 hours."
+        },
+        "c5_testified": {
+          "label": "C5 Testification (Application + KumoOps Support & Operations Processes)",
+          "pricing": "€1,000/month",
+          "short_description": "Prepare and include your application in a C5 (incl. alignment with ISO 27001 controls where applicable)) testification scope via KumoOps processes and our audit partner.",
+          "detailed_description": "If KumoOps is already C5-testified, we can onboard your application into a C5-aligned testification scope. Together we define (typically quarterly) which application(s) are included, prepare the required evidence and documentation, and coordinate the testification process with our audit/testification partner (who also testifies KumoOps). This add-on covers planning, evidence collection support, process alignment, and audit coordination. Final testification is issued by the independent auditor and depends on meeting all C5 requirements."
         }
       }
     },
